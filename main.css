@@ -8,6 +8,22 @@
   padding-right: 15px;
 }
 
+.footer > .footer-inner {
+  font-size: 20px;
+}
+
+.footer .footer-inner .footer-content {
+  font-size: 12px;
+}
+
+.footer-inner + .footer-menu {
+  color: gray;
+}
+
+.footer-menu ~ .footer-link {
+  font-size: 14px;
+}
+
 .btn {
   display: inline-block;
   padding: 6px 12px;
